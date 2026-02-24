@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-groq
+groq
+yfinance
+requests
+pandas
+numpy
+python-dotenv
+ta
+textblob           # For simple news sentiment
+kiteconnect
+dhanhq
